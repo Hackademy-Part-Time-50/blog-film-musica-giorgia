@@ -1,0 +1,70 @@
+html,
+p {
+
+    font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto Slab", serif;
+}
+
+/* herosection */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+
+.herosection {
+    height: 100vh;
+    background-image: url(hero-section.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.herosection2 {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.buttonfilm {
+    border-radius: 30px;
+    background-color: #b3adba;
+}
+
+.buttonmusic {
+    border-radius: 80px;
+    border: 1px solid #b3adba;
+}
+
+ #filled:hover {
+    background-color: rgb(246, 53, 53) !important;
+    color: rgb(249, 245, 245) !important;
+}
+
+#outlined:hover {
+    background-color: rgb(246, 53, 53);
+    color: rgb(249, 245, 245);
+}
+ 
+
+.imgsize{
+    width: 250px;
+    height: 450px;
+
+}
+
+.sfondocontainercard{
+    background-color: black;
+}
+
